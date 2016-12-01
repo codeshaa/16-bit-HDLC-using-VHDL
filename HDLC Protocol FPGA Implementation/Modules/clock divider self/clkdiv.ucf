@@ -1,0 +1,3 @@
+net clk loc = p122;
+net reset loc = p6;
+net ckout loc = p2;
